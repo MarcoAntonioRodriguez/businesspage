@@ -33,9 +33,9 @@ p {
 
 img {
   min-width: 100px;
-  width: 35%;
+  width: 100%;
   padding: 2%;
-  background-color: aliceblue;
+  background-image: url(https://i.fbcd.co/products/resized/resized-750-500/brown-wooden-background-5a2be36d9fdbde77d961fb1b98f01fb89304f2822984a856d542d15cefcfd490.jpg);
   padding-top: 2%;
   padding-left: 2%;
   padding-bottom: 2%;
@@ -47,7 +47,7 @@ img {
 
 p2 {
   background-color: aliceblue;
-  padding: 1%;
+  padding: 2%;
   width: 35%;
   display: flex;
   justify-content: center;
@@ -57,7 +57,7 @@ section {
   min-width: 225px;
   width: 50%;
   min-height: 100vh;
-  background-color: rgba(0, 255, 255, 0.562);
+  background-color: rgba(255, 255, 255, 0.507);
 }
 
 p3 {
@@ -79,4 +79,21 @@ p3 {
   display: flex;
   align-items: center;
   justify-content: center;
+}
+
+.profile {
+  width: 35%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  margin: 2% 0;
+}
+
+.name {
+  color: rgb(0, 0, 0);
+  padding: 2%;
+  background-image: url(https://cdn.vectorstock.com/i/500p/75/48/gold-label-banner-luxury-golden-frame-name-vector-55537548.jpg);
+  border-radius: 5%;
+  border-color: rgb(0, 0, 0);
 }
