@@ -56,7 +56,6 @@ p2 {
 section {
   min-width: 225px;
   width: 50%;
-  min-height: 100vh;
   background-color: rgba(255, 255, 255, 0.507);
 }
 
@@ -76,6 +75,7 @@ p3 {
 }
 
 #about-us {
+  min-height: 100vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -96,10 +96,16 @@ p3 {
   background-image: url(https://cdn.vectorstock.com/i/500p/75/48/gold-label-banner-luxury-golden-frame-name-vector-55537548.jpg);
   border-radius: 10%;
   border: 2px solid rgb(255, 251, 0);
+  text-align: center;
 }
 
 .profile-lawyer {
 }
 
 .Info {
+}
+
+section2 {
+  background-color: rgba(145, 208, 245, 0.863);
+  padding: 4%;
 }
