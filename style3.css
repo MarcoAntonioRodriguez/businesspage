@@ -10,7 +10,7 @@ body {
   min-height: 100vh;
   background-size: cover;
   background-repeat: no-repeat;
-  background-image: url(https://thumbs.dreamstime.com/b/luxurious-modern-business-lawyers-office-classy-table-lighting-generative-ai-270889566.jpg);
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfKIl4cNRY1nuW493IIcqHpMff7Rr0Q1srSA&s);
 }
 img {
   width: 350px;
@@ -26,14 +26,17 @@ img {
 
 p {
   font-size: 2em;
+  color: aliceblue;
 }
 
 li {
   font-size: 2em;
   padding: 1%;
+  color: aliceblue;
 }
 h1 {
   font-size: 3em;
   gap: 1.5%;
   padding: 2%;
+  color: aliceblue;
 }
