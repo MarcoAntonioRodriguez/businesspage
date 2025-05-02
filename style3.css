@@ -27,16 +27,23 @@ img {
 p {
   font-size: 2em;
   color: aliceblue;
+  background-color: rgba(0, 0, 0, 0.315);
+  padding: 2%;
 }
 
 li {
   font-size: 2em;
   padding: 1%;
-  color: aliceblue;
+  color: rgb(255, 255, 255);
 }
 h1 {
   font-size: 3em;
+  text-shadow: 4px 2px 15px Black;
   gap: 1.5%;
   padding: 2%;
   color: aliceblue;
+}
+
+a {
+  color: darkgrey;
 }

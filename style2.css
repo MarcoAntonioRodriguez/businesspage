@@ -25,7 +25,9 @@ img {
 }
 
 p {
+  background-color: rgba(149, 150, 150, 0.507);
   font-size: 2em;
+  padding: 1%;
 }
 
 li {
@@ -36,6 +38,7 @@ h1 {
   font-size: 3em;
   gap: 1.5%;
   padding: 2%;
+  text-shadow: 2px 2px 15px rgb(179, 233, 250);
 }
 
 a {
